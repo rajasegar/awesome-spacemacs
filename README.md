@@ -13,6 +13,7 @@ A collection of awesome Spacemacs resources
 ## Articles 
 - [The never-ending editor war (?)](https://www.brodrigues.co/blog/2019-05-19-spacemacs/)
 - [Emacs Configuration by Christian Bäuerlein](https://emacs.christianbaeuerlein.com/)
+- [How I build my own spacemacs](https://sam217pa.github.io/2016/08/30/how-to-make-your-own-spacemacs/)
 
 
 ## Videos
