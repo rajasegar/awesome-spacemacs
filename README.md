@@ -3,17 +3,23 @@
 
 A collection of awesome Spacemacs resources
 
+- [Official Website](http://spacemacs.org/)
+- [Github](https://github.com/syl20bnr/spacemacs)
+
 ## Dot Files
 
-## Tutorials
 
-## Blogs
+
+## Articles 
+- [The never-ending editor war (?)](https://www.brodrigues.co/blog/2019-05-19-spacemacs/)
+- [Emacs Configuration by Christian Bäuerlein](https://emacs.christianbaeuerlein.com/)
 
 
 ## Videos
 
 ### Spacemacs ABC Series
 This video series are created by Elvind Fonn and one of the "BEST" resources for Spacemacs
+
 [Full Playlist](https://www.youtube.com/watch?v=ZFV5EqpZ6_s&list=PLrJ2YN5y27KLhd3yNs2dR8_inqtEiEweE)
 
 - [Spacemacs ABC (1)](https://www.youtube.com/watch?v=ZFV5EqpZ6_s)
@@ -30,5 +36,11 @@ This series of Spacemacs videos are created by Jack of Some
 - [Refactoring in Spacemacs: The Absolute Minimum you need to know about iedit and helm-edit](https://www.youtube.com/watch?v=XAHVwhTsF-g)
 - [Org mode and Spacemacs: The Absolute Minimum you need to know](https://www.youtube.com/watch?v=S4f-GUxu3CY)
 
+### Miscellaneous 
+- [Spin your own Spacemacs-lite](https://www.youtube.com/watch?v=6INMXmsCCC8)
+- [Spacemacs: Windows and Layouts (tutorial)](https://www.youtube.com/watch?v=I2C6QTtxfe8&feature=youtu.be)
 
 ## Twitter
+- [Official Spacemacs Twitter](https://twitter.com/spacemacs)
+- [Sylvain Benner](https://twitter.com/syl20bnr)
+- [M-x tips](https://twitter.com/iLemming)
