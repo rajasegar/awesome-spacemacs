@@ -13,8 +13,16 @@ A collection of awesome Spacemacs resources
 ## Videos
 
 ### Spacemacs ABC Series
-This video series are created by Elvind Fonn
+This video series are created by Elvind Fonn and one of the "BEST" resources for Spacemacs
+[Full Playlist](https://www.youtube.com/watch?v=ZFV5EqpZ6_s&list=PLrJ2YN5y27KLhd3yNs2dR8_inqtEiEweE)
+
 - [Spacemacs ABC (1)](https://www.youtube.com/watch?v=ZFV5EqpZ6_s)
+- [Spacemacs ABC (2)](https://www.youtube.com/watch?v=B39tFs2ifHg)
+- [Spacemacs ABC (3)](https://www.youtube.com/watch?v=2y9NLIbNf_I)
+- [Spacemacs ABC (4)](https://www.youtube.com/watch?v=GpplGkKFLzg)
+- [Spacemacs ABC (5)](https://www.youtube.com/watch?v=fYsqaAL8HSU)
+- [Spacemacs ABC (6)](https://www.youtube.com/watch?v=rCZZ4Yy33PE)
+- [Spacemacs ABC (7)](https://www.youtube.com/watch?v=Q960X9qCMPc)
 
 ### The Absolute Minimum Series
 This series of Spacemacs videos are created by Jack of Some
