@@ -16,6 +16,7 @@ A collection of awesome Spacemacs resources
 - [How I build my own spacemacs](https://sam217pa.github.io/2016/08/30/how-to-make-your-own-spacemacs/)
 
 
+
 ## Videos
 
 ### Spacemacs ABC Series
@@ -40,6 +41,8 @@ This series of Spacemacs videos are created by Jack of Some
 ### Miscellaneous 
 - [Spin your own Spacemacs-lite](https://www.youtube.com/watch?v=6INMXmsCCC8)
 - [Spacemacs: Windows and Layouts (tutorial)](https://www.youtube.com/watch?v=I2C6QTtxfe8&feature=youtu.be)
+- [intelli-space: Spacemacs' like key bindings for IntelliJ platform](https://github.com/MarcoIeni/intelli-space) 
+- [VSpaceCode: Spacemacs' like key bindings for Visual Studio Code](https://github.com/VSpaceCode/VSpaceCode)
 
 ## Twitter
 - [Official Spacemacs Twitter](https://twitter.com/spacemacs)
