@@ -9,6 +9,9 @@ A collection of awesome Spacemacs resources
 ## Dot Files
 
 
+## Related Projects
+- [intelli-space: Spacemacs' like key bindings for IntelliJ platform](https://github.com/MarcoIeni/intelli-space) 
+- [VSpaceCode: Spacemacs' like key bindings for Visual Studio Code](https://github.com/VSpaceCode/VSpaceCode)
 
 ## Articles 
 - [The never-ending editor war (?)](https://www.brodrigues.co/blog/2019-05-19-spacemacs/)
@@ -38,11 +41,19 @@ This series of Spacemacs videos are created by Jack of Some
 - [Refactoring in Spacemacs: The Absolute Minimum you need to know about iedit and helm-edit](https://www.youtube.com/watch?v=XAHVwhTsF-g)
 - [Org mode and Spacemacs: The Absolute Minimum you need to know](https://www.youtube.com/watch?v=S4f-GUxu3CY)
 
+### Spacemacs Tutorials by GDquest
+[Full Playlist](https://github.com/VSpaceCode/VSpaceCode)
+
+- [Installing and getting started with Spacemacs: Emacs tutorial](https://www.youtube.com/watch?v=hCNOB5jjtmc&list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4)
+- [Spacemacs: Major mode Commands and Shortcuts](https://www.youtube.com/watch?v=Z8h2nxLnq70&list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4&index=2)
+- [Spacemacs: Windows and Layouts](https://www.youtube.com/watch?v=I2C6QTtxfe8&list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4&index=3)
+- [How I Organize my Work with Org Mode in Spacemacs](https://www.youtube.com/watch?v=7ybg3vjLQJM&list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4&index=4)
+- [Learn Emacs Org Mode: Spacemacs Intro Tutorial](https://www.youtube.com/watch?v=PVsSOmUB7ic&list=PLhqJJNjsQ7KFkMVBunWWzFD8SlH714qm4&index=5)
+
+
 ### Miscellaneous 
 - [Spin your own Spacemacs-lite](https://www.youtube.com/watch?v=6INMXmsCCC8)
 - [Spacemacs: Windows and Layouts (tutorial)](https://www.youtube.com/watch?v=I2C6QTtxfe8&feature=youtu.be)
-- [intelli-space: Spacemacs' like key bindings for IntelliJ platform](https://github.com/MarcoIeni/intelli-space) 
-- [VSpaceCode: Spacemacs' like key bindings for Visual Studio Code](https://github.com/VSpaceCode/VSpaceCode)
 
 ## Twitter
 - [Official Spacemacs Twitter](https://twitter.com/spacemacs)
