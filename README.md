@@ -5,6 +5,10 @@ A collection of awesome Spacemacs resources
 
 - [Official Website](http://spacemacs.org/)
 - [Github](https://github.com/syl20bnr/spacemacs)
+- [Wikipedia](https://en.wikipedia.org/wiki/Spacemacs)
+- [Reddit](https://www.reddit.com/r/spacemacs/)
+- [Spacemacs Archwiki](https://wiki.archlinux.org/index.php/Spacemacs)
+- [Spacemacs Cheatsheet](https://devhints.io/spacemacs)
 
 ## Dot Files
 
@@ -17,6 +21,12 @@ A collection of awesome Spacemacs resources
 - [The never-ending editor war (?)](https://www.brodrigues.co/blog/2019-05-19-spacemacs/)
 - [Emacs Configuration by Christian Bäuerlein](https://emacs.christianbaeuerlein.com/)
 - [How I build my own spacemacs](https://sam217pa.github.io/2016/08/30/how-to-make-your-own-spacemacs/)
+- [An Introduction into Spacemacs from a Vim user](https://thecode.pub/an-introduction-into-spacemacs-from-a-vim-user-f0d9c860911e)
+- [Spacemacs Tutorials from Simple Tutorials](https://simpletutorials.com/c/2883/Spacemacs)
+- [Getting Started with Spacemacs](https://interblah.net/getting-started-with-spacemacs)
+- [An Absolute Beginners Guide to Spacemacs for Academic Writing](https://ontologicalblog.com/2016/10/14/an-absolute-beginners-guide-to-spacemacs-for-academic-writing/)
+- [An Introduction to Spacemacs](https://spin.atomicobject.com/2016/08/30/introduction-to-spacemacs/)
+- [Spacemacs and Org-mode](https://meta.caspershire.net/spacemacs-and-org-mode/)
 
 
 
