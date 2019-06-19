@@ -16,6 +16,7 @@ A collection of awesome Spacemacs resources
 ## Related Projects
 - [intelli-space: Spacemacs' like key bindings for IntelliJ platform](https://github.com/MarcoIeni/intelli-space) 
 - [VSpaceCode: Spacemacs' like key bindings for Visual Studio Code](https://github.com/VSpaceCode/VSpaceCode)
+- [Spaceclipse: Spacemacs' like key bindings for Eclipse](https://github.com/MarcoIeni/spaceclipse)
 
 ## Articles 
 - [The never-ending editor war (?)](https://www.brodrigues.co/blog/2019-05-19-spacemacs/)
