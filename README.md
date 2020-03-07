@@ -1,5 +1,7 @@
 <a href="http://spacemacs.org"><img src="https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg" alt="Made with Spacemacs"></a><a href="http://www.twitter.com/spacemacs"><img src="http://i.imgur.com/tXSoThF.png" alt="Twitter" align="right"></a><br>
-# Awesome Spacemacs
+
+# Awesome Spacemacs [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 A collection of awesome Spacemacs resources
 
@@ -25,8 +27,9 @@ A collection of awesome Spacemacs resources
 
 ## Related Projects
 - [intelli-space: Spacemacs' like key bindings for IntelliJ platform](https://github.com/MarcoIeni/intelli-space) 
+- [Spaceclipse: Spacemacs' like key bindings for Eclipse](https://github.com/MarcoIeni/spaceclipse) 
 - [VSpaceCode: Spacemacs' like key bindings for Visual Studio Code](https://github.com/VSpaceCode/VSpaceCode)
-- [Spaceclipse: Spacemacs' like key bindings for Eclipse](https://github.com/MarcoIeni/spaceclipse)
+
 
 ## Articles 
 - [The never-ending editor war (?)](https://www.brodrigues.co/blog/2019-05-19-spacemacs/)
