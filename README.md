@@ -1,10 +1,20 @@
 <a href="http://spacemacs.org"><img src="https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg" alt="Made with Spacemacs"></a><a href="http://www.twitter.com/spacemacs"><img src="http://i.imgur.com/tXSoThF.png" alt="Twitter" align="right"></a><br>
-# awesome-spacemacs
+# Awesome Spacemacs
 
 A collection of awesome Spacemacs resources
 
+## Contents
+- [Official](#official)
+- [Dot Files](#dot-files)
+- [Related Projects](#related-projects)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Twitter](#twitter)
+
+## Official
+
 - [Official Website](http://spacemacs.org/)
-- [Github](https://github.com/syl20bnr/spacemacs)
+- [GitHub](https://github.com/syl20bnr/spacemacs)
 - [Wikipedia](https://en.wikipedia.org/wiki/Spacemacs)
 - [Reddit](https://www.reddit.com/r/spacemacs/)
 - [Spacemacs Archwiki](https://wiki.archlinux.org/index.php/Spacemacs)
