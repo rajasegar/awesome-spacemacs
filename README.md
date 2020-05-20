@@ -41,7 +41,13 @@ A collection of awesome Spacemacs resources
 - [An Introduction to Spacemacs](https://spin.atomicobject.com/2016/08/30/introduction-to-spacemacs/)
 - [Spacemacs and Org-mode](https://meta.caspershire.net/spacemacs-and-org-mode/)
 
-
+## Other Resources
+- [Spacemacs Practicalli](https://practicalli.github.io/spacemacs/) A Practical Guide to Spacemacs
+- [Creating a Spacemacs Layer from an Existing Emacs Package](https://medium.com/@cgrinaldi/creating-a-spacemacs-layer-from-an-existing-emacs-package-efd474bb422d)
+- [Setting up Spacemacs for development - Part 1](https://medium.com/@ageekymonk/setting-up-spacemacs-for-development-part-1-5349de0b43a1)
+- [Setting up Spacemacs for development - Part 2](https://medium.com/@ageekymonk/setting-up-spacemacs-for-development-part-2-proxy-and-git-3c1da0362ed6)
+- [Setting up Spacemacs for development - Part 3](https://medium.com/@ageekymonk/setting-up-spacemacs-for-development-part-3-developer-environment-4bc7961934f4)
+- [Migrating to Spacemacs Layers](http://www.modernemacs.com/post/migrate-layers/)
 
 ## Videos
 
