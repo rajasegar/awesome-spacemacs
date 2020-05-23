@@ -10,6 +10,7 @@ A collection of awesome Spacemacs resources
 - [Dot Files](#dot-files)
 - [Related Projects](#related-projects)
 - [Articles](#articles)
+- [Other Resources](#other-resources)
 - [Videos](#videos)
 - [Twitter](#twitter)
 
@@ -42,7 +43,7 @@ A collection of awesome Spacemacs resources
 - [Spacemacs and Org-mode](https://meta.caspershire.net/spacemacs-and-org-mode/)
 
 ## Other Resources
-- [Spacemacs Practicalli](https://practicalli.github.io/spacemacs/) A Practical Guide to Spacemacs
+- [Spacemacs Practicalli](https://practicalli.github.io/spacemacs/) - A Practical Guide to Spacemacs.
 - [Creating a Spacemacs Layer from an Existing Emacs Package](https://medium.com/@cgrinaldi/creating-a-spacemacs-layer-from-an-existing-emacs-package-efd474bb422d)
 - [Setting up Spacemacs for development - Part 1](https://medium.com/@ageekymonk/setting-up-spacemacs-for-development-part-1-5349de0b43a1)
 - [Setting up Spacemacs for development - Part 2](https://medium.com/@ageekymonk/setting-up-spacemacs-for-development-part-2-proxy-and-git-3c1da0362ed6)
