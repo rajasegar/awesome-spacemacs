@@ -23,6 +23,10 @@ A collection of awesome Spacemacs resources
 - [Spacemacs Archwiki](https://wiki.archlinux.org/index.php/Spacemacs)
 - [Spacemacs Cheatsheet](https://devhints.io/spacemacs)
 
+## Layers
+- [Official Layers](https://develop.spacemacs.org/layers/LAYERS.html)
+- [Unofficial Layers](https://github.com/syl20bnr/spacemacs/discussions/14757)
+
 ## Dot Files
 
 
